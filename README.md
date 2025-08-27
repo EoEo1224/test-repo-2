@@ -7,3 +7,4 @@ This is a second test repositor
 오늘은 멋진 날입니다 ^^
 # Solana Devnet Test
 Solana Devnet 언제 받을 수 있는 길이 열릴까요. 깃허브 잔디 가꾸기만으로는 부족한가요. 한달이 넘었습니다.
+좋은 하루 입니다.
